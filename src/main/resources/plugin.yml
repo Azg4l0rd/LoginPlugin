@@ -1,1 +1,9 @@
-
+name: LoginPlugin
+main: com.miservidor.login.LoginPlugin
+version: 1.0
+api-version: 1.12
+commands:
+  register:
+    description: Registra una cuenta.
+  login:
+    description: Inicia sesión en el servidor.
